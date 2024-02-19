@@ -23,7 +23,7 @@ const options = {
         messageColor: '#ffffff',
         backgroundColor: '#ef4040',
         position: 'topRight',
-        iconUrl: '../img/octagon.svg',
+        iconUrl: '/img/octagon.svg',
         progressBarColor: '#b51b1b',
         pauseOnHover: true,
         closeColor: '#ffffff',
