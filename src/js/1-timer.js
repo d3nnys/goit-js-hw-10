@@ -4,6 +4,7 @@ import flatpickr from 'flatpickr';
 import 'flatpickr/dist/flatpickr.min.css';
 import iziToast from 'izitoast';
 import 'izitoast/dist/css/iziToast.min.css';
+import error from '../img/octagon.svg';
 
 const options = {
   enableTime: true,
@@ -23,7 +24,7 @@ const options = {
         messageColor: '#ffffff',
         backgroundColor: '#ef4040',
         position: 'topRight',
-        iconUrl: '/img/octagon.svg',
+        iconUrl: error,
         progressBarColor: '#b51b1b',
         pauseOnHover: true,
         closeColor: '#ffffff',
