@@ -41,7 +41,6 @@ function clickOnBtn(event) {
         iconUrl: success,
         progressBarColor: '#326101',
         pauseOnHover: false,
-        closeColor: '#ffffff',
         timeout: `3000`,
       });
     })
@@ -55,7 +54,6 @@ function clickOnBtn(event) {
         iconUrl: octagon,
         progressBarColor: '#b51b1b',
         pauseOnHover: false,
-        closeColor: '#ffffff',
         timeout: `3000`,
       });
     });
